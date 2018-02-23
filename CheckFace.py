@@ -5,7 +5,7 @@ import sys
 import os
 
 
-face_classifier = cv2.CascadeClassifier('Haarcascades/haarcascade_frontalface_default.xml')
+face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 
 
