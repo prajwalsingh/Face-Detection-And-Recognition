@@ -9,7 +9,7 @@ class CaptureAndTrain(object):
 	def __init__(self):
 		print('Hi')
 		print('Image Training Started.')
-		self.faceDetector = cv2.CascadeClassifier('Haarcascades/haarcascade_frontalface_default.xml')
+		self.faceDetector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 	def captureFromDir(self,path):
 		count = 0
