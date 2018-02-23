@@ -5,7 +5,7 @@
 
 * [Read About LBPHFaceRecognizer](http://eyalarubas.com/face-detection-and-recognition.html).
 
-### Require Library
+#### Require Library
 
 * `cv2`
 * `numpy`
