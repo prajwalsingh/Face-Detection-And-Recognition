@@ -21,4 +21,4 @@
 
 **Sample Output**
 
-![alt](https://github.com/prajwalsingh/SimpleFaceClassifier/blob/master/SimpleFaceClassifier.png | width=100)
+![alt](https://github.com/prajwalsingh/SimpleFaceClassifier/blob/master/SimpleFaceClassifier.png)
