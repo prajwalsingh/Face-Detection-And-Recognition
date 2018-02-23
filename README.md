@@ -19,5 +19,6 @@
 * `After running above file now run` **CheckFace.py** `file to recognize face with name.`
 
 
+**Sample Output**
 
-![alt](https://github.com/prajwalsingh/SimpleFaceClassifier/blob/master/SimpleFaceClassifier.png)
+![alt](https://github.com/prajwalsingh/SimpleFaceClassifier/blob/master/SimpleFaceClassifier.png | width=100)
