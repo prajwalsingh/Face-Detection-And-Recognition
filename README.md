@@ -1,4 +1,4 @@
-# SimpleFaceClassifier
+# Face Recognition With Name
 
 * Identify different Faces With Name with the help of training data.
 
