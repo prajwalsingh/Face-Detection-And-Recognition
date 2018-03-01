@@ -1,4 +1,4 @@
-# Face Recognition With Name
+# Face Detection And Recognition
 
 * Identify different Faces With Name with the help of training data.
 
